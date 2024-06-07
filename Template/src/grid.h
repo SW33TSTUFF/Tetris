@@ -1,6 +1,6 @@
 #pragma once    // Happens only once to avoid duplicate compilaitons
 #include <vector>
-#inlcude <raylib.h>
+#include <raylib.h>
 
 class Grid{
 public:
